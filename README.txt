@@ -1,0 +1,1 @@
+Bir üçgeni kesen doğru ve hangi kenarlarını kestiğini koordinatları ile gösteren program
